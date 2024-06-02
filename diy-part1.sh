@@ -19,3 +19,4 @@ echo "src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main" >
 
 git clone https://github.com/sbwml/luci-app-alist package/alist
 git clone https://github.com/rufengsuixing/luci-app-onliner package/onliner
+git clone -b master --depth 1 --single-branch https://github.com/vernesong/OpenClash package/xd/luci-app-openclash
