@@ -1,4 +1,10 @@
+# 备注
+- 登录ip: 192.168.31.2
+- mosdns/upnp/frpc
 
+## 合并参考
+https://github.com/shiyu1314/openwrt-onecloud
+# Fork信息
 # 玩客云openwrt自动编译
 
 集合常用插件，不定期编译。
